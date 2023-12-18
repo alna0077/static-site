@@ -25,7 +25,7 @@ export default {
            } , 
            {
                text: 'Contact',
-               link: '/contact',
+               link: '/contact/contact.md',
            }        
         ],
         logo: '/images/AdobeStock_497856677.svg',
