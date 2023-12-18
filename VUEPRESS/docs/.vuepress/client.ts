@@ -6,3 +6,7 @@ export default defineClientConfig({
     CustomLayout,
   },
 })
+
+app: {
+  baseURL: '/static-site/'
+}
