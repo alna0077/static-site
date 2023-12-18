@@ -30,6 +30,7 @@ export default {
         ],
         logo: '/images/AdobeStock_497856677.svg',
     }),
-
     base: '/nft-minting-app-main/'
 }
+
+ 
